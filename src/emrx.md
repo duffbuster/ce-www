@@ -7,8 +7,7 @@ css-template: page.css
 template: page.html
 draft: true
 ---
-Reduce Paper, Streamline
-Patient Encounters
+Reduce Paper, Streamline Patient Encounters
 
 Choosing an electronic medical records solution can be a frustrating process. You'd like to take advantage of current incentives, but don't want to get stuck with a system that ignores your unique office workflow.
 
